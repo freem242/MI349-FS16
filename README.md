@@ -12,7 +12,7 @@
     </head>
     <body>
         <img src="profileimage.jpg" width="400" height="500" alt=""""/>
-        <h1>Nice to meet you</h1>
+        <text-align: center> <h1>Nice to meet you</h1>
     </body>
 </html>
 \
