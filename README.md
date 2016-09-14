@@ -5,13 +5,9 @@
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>Grace Freeman MI349</title>
-        <meta name="description" content="">
+        <meta name="Media and Information Major, Graphic Design Minor" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <!-- External link (relative) to your main stylesheet -->
         <link rel="stylesheet" href="css/new.css m  ">
-
-        <!-- External link (relative) to your javascript file -->
         <script src="js/index.js"></script>
     </head>
     <body>
