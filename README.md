@@ -9,6 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- External link (relative) to your main stylesheet -->
+        <link rel="stylesheet" href="css/new.css m  ">
 
         <!-- External link (relative) to your javascript file -->
         <script src="js/index.js"></script>
