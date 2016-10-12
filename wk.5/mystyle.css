@@ -1,7 +1,10 @@
-<!doctype html>
-#bodytext {
-  background: red;
+body {
+  background: #808080;
 }
 .heading {
   background: blue;
+}
+#title {
+  font-weight: bold;
+  font-style: helvetica;
 }
